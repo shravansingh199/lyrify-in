@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>/category/man-mauji-1962/</loc>
+		<lastmod>2022-08-31T15:59:11+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/category/manmarziyaan-2018/</loc>
 		<lastmod>2024-01-05T07:59:56+00:00</lastmod>
 	</url>
@@ -1714,7 +1718,7 @@
 	</url>
 	<url>
 		<loc>/category/singles/</loc>
-		<lastmod>2025-02-14T14:43:45+00:00</lastmod>
+		<lastmod>2025-05-09T14:49:50+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/category/sir-1993/</loc>
@@ -2639,6 +2643,10 @@
 	<url>
 		<loc>/category/youngistaan/</loc>
 		<lastmod>2021-06-13T17:37:02+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/category/yudhra-2024/</loc>
+		<lastmod>2025-05-08T06:36:33+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/category/yuva-2004/</loc>
